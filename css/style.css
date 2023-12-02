@@ -509,7 +509,10 @@ h6,
     color: #FFFFFF;
     background: var(--primary);
 }
+.fab .fa-phone-alt{
+    color: #6222CC;
 
+}
 
 /*** Footer ***/
 .footer {
