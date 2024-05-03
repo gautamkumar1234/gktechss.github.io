@@ -518,9 +518,7 @@ h6,
 .footer {
     margin-top: 2rem;
     padding-top: 2rem;
-    background:
-       
-        url(../img/map.png);
+    background: url(../img/map.png);
     background-position:
         center top,
         center center;
